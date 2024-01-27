@@ -88,9 +88,7 @@ This Password Generator is a simple web application built using HTML, CSS, and J
 
 These functions and properties are integral to the functionality of the Password Generator, enabling the generation of random passwords based on user preferences and enhancing the security of generated passwords by including various character types.
 
-Certainly! Here's the updated "Credits" section for your Password Generator project's README file:
 
----
 
 ## Credits
 
